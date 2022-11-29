@@ -4,6 +4,25 @@ This project demonstrates a simple version of Twitter with CRUD operations built
 
 This project contains two smart contracts, tests for those contracts and a script to deploy the contract.
 
+Contract
+
+Deployed Address : 0xD35fDe93914f64c13ff9194427D307504cbF1050
+[Contract](https://goerli.etherscan.io/address/0xD35fDe93914f64c13ff9194427D307504cbF1050)
+
+Folder Structure
+Contracts and Testing
+.
+│   ├── contracts
+│   │   └── EpicApp.sol
+│   └── test                            # Unit testing
+│       └── EpicTweetConsole.test.js
+└── README.md
+
+File Description
+
+    EpicApp.sol - Tweet Structure, Tweet post, edit, delete methods
+    EpicTweetConsole.test.js - 9 testcases.
+
 Authors
 
 @[Prashanth Raghavendra Rao](https://github.com/Prash099)
