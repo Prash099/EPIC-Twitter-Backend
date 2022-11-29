@@ -6,15 +6,15 @@ This project contains two smart contracts, tests for those contracts and a scrip
 
 Authors
 
-[Prashanth Raghavendra Rao](https://github.com/Prash099)
+@[Prashanth Raghavendra Rao](https://github.com/Prash099)
 
-[Sameera Holy Sheik Abdullah](https://github.com/iholy19)
+@[Sameera Holy Sheik Abdullah](https://github.com/iholy19)
 
-[Ranjitha Vadivel](https://github.com/Ranjithavadivel)
+@[Ranjitha Vadivel](https://github.com/Ranjithavadivel)
 
-[Gayathri Anandhasayanan](https://github.com/GayathriAnandhasayanan)
+@[Gayathri Anandhasayanan](https://github.com/GayathriAnandhasayanan)
 
-Clinton Antony Rajasekar
+@Clinton Antony Rajasekar
 
 Pre requisites
 
