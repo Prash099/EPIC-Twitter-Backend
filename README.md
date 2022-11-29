@@ -4,6 +4,23 @@ This project demonstrates a simple version of Twitter with CRUD operations built
 
 This project contains two smart contracts, tests for those contracts and a script to deploy the contract.
 
+Authors
+
+    [Prashanth Raghavendra Rao](https://github.com/Prash099)
+    [Sameera Holy Sheik Abdullah](https://github.com/iholy19)
+    [Ranjitha Vadivel](https://github.com/Ranjithavadivel)
+    [Gayathri Anandhasayanan](https://github.com/GayathriAnandhasayanan)
+    Clinton Antony Rajasekar
+
+Pre requisites
+
+    Node js
+    Node version manager
+    Git
+    GitHub repository
+    VS code
+    Hardhat framework
+
 After cloning the project you must install all the dependencies using:
 
     npm install
