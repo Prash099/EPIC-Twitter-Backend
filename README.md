@@ -7,10 +7,12 @@ This project contains two smart contracts, tests for those contracts and a scrip
 Contract
 
 Deployed Address : 0xD35fDe93914f64c13ff9194427D307504cbF1050
+
 [Contract](https://goerli.etherscan.io/address/0xD35fDe93914f64c13ff9194427D307504cbF1050)
 
 Folder Structure
 Contracts and Testing
+
 ```
 .
 │   ├── contracts
