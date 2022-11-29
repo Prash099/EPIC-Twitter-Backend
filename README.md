@@ -11,12 +11,14 @@ Deployed Address : 0xD35fDe93914f64c13ff9194427D307504cbF1050
 
 Folder Structure
 Contracts and Testing
-    .
-    │   ├── contracts
-    │   │   └── EpicApp.sol
-    │   └── test                            # Unit testing
-    │       └── EpicTweetConsole.test.js
-    └── README.md
+```
+.
+│   ├── contracts
+│   │   └── EpicApp.sol
+│   └── test                            # Unit testing
+│       └── EpicTweetConsole.test.js
+└── README.md
+```
 
 File Description
 
